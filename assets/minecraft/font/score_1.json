@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:buff.ttf",
+            "shift": [311, -94],
+            "size": 25,
+            "oversample": 8
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/attack.png",
+            "height": 10,
+            "ascent": 10,
+            "chars": [
+            "\u00c0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/spell.png",
+            "height": 10,
+            "ascent": 10,
+            "chars": [
+            "\u00c1"
+            ]
+        }
+    ]
+}

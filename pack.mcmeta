@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "PoM Resource Pack"
+  },
+  "language":{
+  	"en_us":{
+  		"name": "English",
+  		"region":"United States",
+  		"bidirectional":false
+  		}
+  	}
+}
