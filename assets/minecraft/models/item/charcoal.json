@@ -1,0 +1,25 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/charcoal"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "currency/orb_of_transmutation"},
+		{ "predicate": {"custom_model_data": 2}, "model": "currency/orb_of_alteration"},
+		{ "predicate": {"custom_model_data": 3}, "model": "currency/orb_of_augmentation"},
+		{ "predicate": {"custom_model_data": 4}, "model": "currency/regal_orb"},
+		{ "predicate": {"custom_model_data": 5}, "model": "currency/orb_of_alchemy"},
+		{ "predicate": {"custom_model_data": 6}, "model": "currency/chaos_orb"},
+		{ "predicate": {"custom_model_data": 7}, "model": "currency/exalted_orb"},
+		{ "predicate": {"custom_model_data": 8}, "model": "currency/orb_of_annulment"},
+		{ "predicate": {"custom_model_data": 9}, "model": "currency/orb_of_scouring"},
+		{ "predicate": {"custom_model_data": 10}, "model": "currency/orb_of_chance"},
+		{ "predicate": {"custom_model_data": 11}, "model": "currency/divine_orb"},
+		{ "predicate": {"custom_model_data": 12}, "model": "currency/blessed_orb"},
+		{ "predicate": {"custom_model_data": 13}, "model": "currency/orb_of_analysis"},
+		{ "predicate": {"custom_model_data": 14}, "model": "currency/scroll_of_renaming"},
+		{ "predicate": {"custom_model_data": 15}, "model": "currency/jewellers_orb"},
+		{ "predicate": {"custom_model_data": 16}, "model": "currency/chromatic_orb"}
+		
+	]
+}
