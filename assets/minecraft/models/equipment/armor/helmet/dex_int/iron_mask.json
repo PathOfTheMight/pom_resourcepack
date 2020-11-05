@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "equipment/armor/helmet/dex_int/iron_mask"
+    }
+}

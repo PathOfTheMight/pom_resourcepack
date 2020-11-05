@@ -1,0 +1,59 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "equipment/weapon/sword_thrust/jewelled_foil"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                -90,
+                0
+            ],
+            "translation": [
+                0,
+                12,
+                12
+            ],
+            "scale": [
+                1.5,
+                1.5,
+                1.5
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                0,
+                12,
+                12
+            ],
+            "scale": [
+                1.5,
+                1.5,
+                1.5
+            ]
+        },
+        "head": {
+            "rotation": [
+                -90,
+                -90,
+                0
+            ],
+            "translation": [
+                0,
+                16,
+                -28
+            ],
+            "scale": [
+                2,
+                2,
+                2
+            ]
+        }
+    }
+}

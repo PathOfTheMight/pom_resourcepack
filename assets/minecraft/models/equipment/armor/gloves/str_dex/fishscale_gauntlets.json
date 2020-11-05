@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "equipment/armor/gloves/str_dex/fishscale_gauntlets"
+    }
+}

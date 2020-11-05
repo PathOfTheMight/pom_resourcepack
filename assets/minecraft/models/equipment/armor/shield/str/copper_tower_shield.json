@@ -1,0 +1,32 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "equipment/armor/shield/str/copper_tower_shield"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "translation": [
+                0,
+                -6,
+                0
+            ],
+            "scale": [
+                1.5,
+                1.5,
+                1.5
+            ]
+        },
+        "thirdperson_lefthand": {
+            "translation": [
+                0,
+                -6,
+                0
+            ],
+            "scale": [
+                1.5,
+                1.5,
+                1.5
+            ]
+        }
+    }
+}

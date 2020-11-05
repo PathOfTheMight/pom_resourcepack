@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "equipment/armor/boots/dex/nubuck_boots"
+    }
+}
