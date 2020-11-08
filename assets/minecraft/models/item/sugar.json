@@ -1,0 +1,22 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sugar"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1100000}, "model": "skill_effect/metal_arrow"},
+		{ "predicate": {"custom_model_data": 1100100}, "model": "skill_effect/fire_arrow"},
+		{ "predicate": {"custom_model_data": 1100200}, "model": "skill_effect/ice_arrow"},
+		{ "predicate": {"custom_model_data": 1100201}, "model": "skill_effect/ice"},
+		{ "predicate": {"custom_model_data": 1100300}, "model": "skill_effect/lightning_arrow"},
+		{ "predicate": {"custom_model_data": 1100400}, "model": "skill_effect/poison_arrow"},
+		{ "predicate": {"custom_model_data": 1100500}, "model": "skill_effect/chaos_arrow"},
+		{ "predicate": {"custom_model_data": 1100600}, "model": "skill_effect/falling_arrow"},
+		{ "predicate": {"custom_model_data": 2100000}, "model": "skill_effect/fireball"},
+		{ "predicate": {"custom_model_data": 2100500}, "model": "skill_effect/ice_spear"},
+		{ "predicate": {"custom_model_data": 2100600}, "model": "skill_effect/spark_spider"},
+		{ "predicate": {"custom_model_data": 4000100}, "model": "skill_effect/fist_right"},
+		{ "predicate": {"custom_model_data": 4000200}, "model": "skill_effect/fist_left"},
+		{ "predicate": {"custom_model_data": 4000300}, "model": "skill_effect/magic_bullet"}
+	]
+}

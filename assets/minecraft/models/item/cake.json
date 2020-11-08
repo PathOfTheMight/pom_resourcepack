@@ -1,0 +1,3494 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cake"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/void"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100000
+            },
+            "model": "equipment/weapon/mace_1h/wooden_club"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100010
+            },
+            "model": "equipment/weapon/mace_1h/bone_club"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100020
+            },
+            "model": "equipment/weapon/mace_1h/stone_club"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100030
+            },
+            "model": "equipment/weapon/mace_1h/rock_breaker"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100040
+            },
+            "model": "equipment/weapon/mace_1h/spiked_club"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100050
+            },
+            "model": "equipment/weapon/mace_1h/bladed_mace"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100060
+            },
+            "model": "equipment/weapon/mace_1h/ceremonial_mace"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100070
+            },
+            "model": "equipment/weapon/mace_1h/phantom_mace"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100080
+            },
+            "model": "equipment/weapon/mace_1h/battle_hammer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100090
+            },
+            "model": "equipment/weapon/mace_1h/golden_mace"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100100
+            },
+            "model": "equipment/weapon/mace_1h/dragon_mace"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100110
+            },
+            "model": "equipment/weapon/mace_1h/tenderizer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100120
+            },
+            "model": "equipment/weapon/mace_1h/legion_hammer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100130
+            },
+            "model": "equipment/weapon/mace_1h/nightmare_mace"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100140
+            },
+            "model": "equipment/weapon/mace_1h/behemoth_mace"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101000
+            },
+            "model": "equipment/weapon/axe_1h/rusted_hatchet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101010
+            },
+            "model": "equipment/weapon/axe_1h/jade_hatchet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101020
+            },
+            "model": "equipment/weapon/axe_1h/cleaver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101030
+            },
+            "model": "equipment/weapon/axe_1h/broad_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101040
+            },
+            "model": "equipment/weapon/axe_1h/jasper_hatchet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101050
+            },
+            "model": "equipment/weapon/axe_1h/tomahawk"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101060
+            },
+            "model": "equipment/weapon/axe_1h/wrath_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101070
+            },
+            "model": "equipment/weapon/axe_1h/ceremonial_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101080
+            },
+            "model": "equipment/weapon/axe_1h/war_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101090
+            },
+            "model": "equipment/weapon/axe_1h/wrist_chopper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101100
+            },
+            "model": "equipment/weapon/axe_1h/avarca_hatchet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101110
+            },
+            "model": "equipment/weapon/axe_1h/siege_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101120
+            },
+            "model": "equipment/weapon/axe_1h/royal_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101130
+            },
+            "model": "equipment/weapon/axe_1h/infernal_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101140
+            },
+            "model": "equipment/weapon/axe_1h/rune_hatchet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102000
+            },
+            "model": "equipment/weapon/sword_1h/wooden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102010
+            },
+            "model": "equipment/weapon/sword_1h/stone_blade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102020
+            },
+            "model": "equipment/weapon/sword_1h/bone_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102030
+            },
+            "model": "equipment/weapon/sword_1h/copper_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102040
+            },
+            "model": "equipment/weapon/sword_1h/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102050
+            },
+            "model": "equipment/weapon/sword_1h/scimitar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102060
+            },
+            "model": "equipment/weapon/sword_1h/legion_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102070
+            },
+            "model": "equipment/weapon/sword_1h/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102080
+            },
+            "model": "equipment/weapon/sword_1h/sabel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102090
+            },
+            "model": "equipment/weapon/sword_1h/avarca_blade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102100
+            },
+            "model": "equipment/weapon/sword_1h/dark_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102110
+            },
+            "model": "equipment/weapon/sword_1h/elven_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102120
+            },
+            "model": "equipment/weapon/sword_1h/obsidian_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102130
+            },
+            "model": "equipment/weapon/sword_1h/eternal_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102140
+            },
+            "model": "equipment/weapon/sword_1h/diamond_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103000
+            },
+            "model": "equipment/weapon/sword_thrust/rusted_spike"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103010
+            },
+            "model": "equipment/weapon/sword_thrust/whalebone_rapier"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103020
+            },
+            "model": "equipment/weapon/sword_thrust/basket_rapier"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103030
+            },
+            "model": "equipment/weapon/sword_thrust/elegant_foil"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103040
+            },
+            "model": "equipment/weapon/sword_thrust/thorn_rapier"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103050
+            },
+            "model": "equipment/weapon/sword_thrust/small_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103060
+            },
+            "model": "equipment/weapon/sword_thrust/estoc"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103070
+            },
+            "model": "equipment/weapon/sword_thrust/serrated_foil"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103080
+            },
+            "model": "equipment/weapon/sword_thrust/courtesan_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103090
+            },
+            "model": "equipment/weapon/sword_thrust/dragonbone_rapier"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103100
+            },
+            "model": "equipment/weapon/sword_thrust/spiraled_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103110
+            },
+            "model": "equipment/weapon/sword_thrust/avarca_rapier"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103120
+            },
+            "model": "equipment/weapon/sword_thrust/jewelled_foil"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103130
+            },
+            "model": "equipment/weapon/sword_thrust/harpy_rapier"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103140
+            },
+            "model": "equipment/weapon/sword_thrust/dragoon_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104000
+            },
+            "model": "equipment/weapon/dagger/glass_shank"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104010
+            },
+            "model": "equipment/weapon/dagger/skinning_knife"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104020
+            },
+            "model": "equipment/weapon/dagger/copper_kris"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104030
+            },
+            "model": "equipment/weapon/dagger/stiletto"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104040
+            },
+            "model": "equipment/weapon/dagger/skean"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104050
+            },
+            "model": "equipment/weapon/dagger/butcher_knife"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104060
+            },
+            "model": "equipment/weapon/dagger/imp_dagger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104070
+            },
+            "model": "equipment/weapon/dagger/poignard"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104080
+            },
+            "model": "equipment/weapon/dagger/ender_dagger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104090
+            },
+            "model": "equipment/weapon/dagger/trisula"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104100
+            },
+            "model": "equipment/weapon/dagger/flaying_knife"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104110
+            },
+            "model": "equipment/weapon/dagger/platinum_kris"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104120
+            },
+            "model": "equipment/weapon/dagger/inperial_skean"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104130
+            },
+            "model": "equipment/weapon/dagger/demon_dagger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104140
+            },
+            "model": "equipment/weapon/dagger/sai"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105000
+            },
+            "model": "equipment/weapon/claw/knuckle_duster"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105010
+            },
+            "model": "equipment/weapon/claw/cats_paw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105020
+            },
+            "model": "equipment/weapon/claw/blinder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105030
+            },
+            "model": "equipment/weapon/claw/awl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105040
+            },
+            "model": "equipment/weapon/claw/noble_claw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105050
+            },
+            "model": "equipment/weapon/claw/eagle_claw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105060
+            },
+            "model": "equipment/weapon/claw/twin_claw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105070
+            },
+            "model": "equipment/weapon/claw/gouger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105080
+            },
+            "model": "equipment/weapon/claw/kaiser_knuckle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105090
+            },
+            "model": "equipment/weapon/claw/tigers_paw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105100
+            },
+            "model": "equipment/weapon/claw/gut_ripper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105110
+            },
+            "model": "equipment/weapon/claw/avarca_claw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105120
+            },
+            "model": "equipment/weapon/claw/imperial_claw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105130
+            },
+            "model": "equipment/weapon/claw/terror_claw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105140
+            },
+            "model": "equipment/weapon/claw/gemini_claw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106000
+            },
+            "model": "equipment/weapon/scepter/driftwood_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106010
+            },
+            "model": "equipment/weapon/scepter/darkwood_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106020
+            },
+            "model": "equipment/weapon/scepter/iron_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106030
+            },
+            "model": "equipment/weapon/scepter/quartz_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106040
+            },
+            "model": "equipment/weapon/scepter/blood_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106050
+            },
+            "model": "equipment/weapon/scepter/shadow_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106060
+            },
+            "model": "equipment/weapon/scepter/royal_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106070
+            },
+            "model": "equipment/weapon/scepter/redstone_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106080
+            },
+            "model": "equipment/weapon/scepter/tyrant_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106090
+            },
+            "model": "equipment/weapon/scepter/ender_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106100
+            },
+            "model": "equipment/weapon/scepter/platinum_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106110
+            },
+            "model": "equipment/weapon/scepter/opal_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106120
+            },
+            "model": "equipment/weapon/scepter/avarca_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106130
+            },
+            "model": "equipment/weapon/scepter/vold_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106140
+            },
+            "model": "equipment/weapon/scepter/carnal_scepter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107000
+            },
+            "model": "equipment/weapon/wand/driftwood_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107010
+            },
+            "model": "equipment/weapon/wand/goats_horn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107020
+            },
+            "model": "equipment/weapon/wand/apprentices_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107030
+            },
+            "model": "equipment/weapon/wand/quartz_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107040
+            },
+            "model": "equipment/weapon/wand/serpent_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107050
+            },
+            "model": "equipment/weapon/wand/priests_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107060
+            },
+            "model": "equipment/weapon/wand/pagan_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107070
+            },
+            "model": "equipment/weapon/wand/skull_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107080
+            },
+            "model": "equipment/weapon/wand/holy_branch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107090
+            },
+            "model": "equipment/weapon/wand/demons_horn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107100
+            },
+            "model": "equipment/weapon/wand/obsidian_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107110
+            },
+            "model": "equipment/weapon/wand/opal_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107120
+            },
+            "model": "equipment/weapon/wand/tornado_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107130
+            },
+            "model": "equipment/weapon/wand/prophecy_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107140
+            },
+            "model": "equipment/weapon/wand/profane_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108000
+            },
+            "model": "equipment/weapon/mace_2h/driftwood_maul"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108010
+            },
+            "model": "equipment/weapon/mace_2h/tribal_maul"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108020
+            },
+            "model": "equipment/weapon/mace_2h/mallet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108030
+            },
+            "model": "equipment/weapon/mace_2h/sledgehammer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108040
+            },
+            "model": "equipment/weapon/mace_2h/dread_maul"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108050
+            },
+            "model": "equipment/weapon/mace_2h/brass_maul"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108060
+            },
+            "model": "equipment/weapon/mace_2h/morning_star"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108070
+            },
+            "model": "equipment/weapon/mace_2h/steelhead"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108080
+            },
+            "model": "equipment/weapon/mace_2h/great_mallet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108090
+            },
+            "model": "equipment/weapon/mace_2h/meatgrinder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108100
+            },
+            "model": "equipment/weapon/mace_2h/solar_maul"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108110
+            },
+            "model": "equipment/weapon/mace_2h/piledriver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108120
+            },
+            "model": "equipment/weapon/mace_2h/colossus_mallet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108130
+            },
+            "model": "equipment/weapon/mace_2h/terror_maul"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108140
+            },
+            "model": "equipment/weapon/mace_2h/coronal_maul"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109000
+            },
+            "model": "equipment/weapon/axe_2h/stone_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109010
+            },
+            "model": "equipment/weapon/axe_2h/woodsplitter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109020
+            },
+            "model": "equipment/weapon/axe_2h/poleaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109030
+            },
+            "model": "equipment/weapon/axe_2h/double_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109040
+            },
+            "model": "equipment/weapon/axe_2h/jasper_chopper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109050
+            },
+            "model": "equipment/weapon/axe_2h/dagger_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109060
+            },
+            "model": "equipment/weapon/axe_2h/shadow_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109070
+            },
+            "model": "equipment/weapon/axe_2h/headsman_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109080
+            },
+            "model": "equipment/weapon/axe_2h/labrys"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109090
+            },
+            "model": "equipment/weapon/axe_2h/timber_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109100
+            },
+            "model": "equipment/weapon/axe_2h/halberd"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109110
+            },
+            "model": "equipment/weapon/axe_2h/talon_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109120
+            },
+            "model": "equipment/weapon/axe_2h/avarca_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109130
+            },
+            "model": "equipment/weapon/axe_2h/void_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109140
+            },
+            "model": "equipment/weapon/axe_2h/fleshripper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110000
+            },
+            "model": "equipment/weapon/sword_2h/wooden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110010
+            },
+            "model": "equipment/weapon/sword_2h/longsword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110020
+            },
+            "model": "equipment/weapon/sword_2h/bastard_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110030
+            },
+            "model": "equipment/weapon/sword_2h/two-handed_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110040
+            },
+            "model": "equipment/weapon/sword_2h/tiger_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110050
+            },
+            "model": "equipment/weapon/sword_2h/spectral_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110060
+            },
+            "model": "equipment/weapon/sword_2h/tachi"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110070
+            },
+            "model": "equipment/weapon/sword_2h/highland_blade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110080
+            },
+            "model": "equipment/weapon/sword_2h/footman_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110090
+            },
+            "model": "equipment/weapon/sword_2h/raveger_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110100
+            },
+            "model": "equipment/weapon/sword_2h/avarca_greatsword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110110
+            },
+            "model": "equipment/weapon/sword_2h/odachi"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110120
+            },
+            "model": "equipment/weapon/sword_2h/lion_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110130
+            },
+            "model": "equipment/weapon/sword_2h/infernal_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110140
+            },
+            "model": "equipment/weapon/sword_2h/exquisite_blade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111000
+            },
+            "model": "equipment/weapon/staff/gnarled_branch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111010
+            },
+            "model": "equipment/weapon/staff/long_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111020
+            },
+            "model": "equipment/weapon/staff/iron_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111030
+            },
+            "model": "equipment/weapon/staff/quarterstaff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111040
+            },
+            "model": "equipment/weapon/staff/crescent_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111050
+            },
+            "model": "equipment/weapon/staff/military_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111060
+            },
+            "model": "equipment/weapon/staff/foul_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111070
+            },
+            "model": "equipment/weapon/staff/ebony_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111080
+            },
+            "model": "equipment/weapon/staff/serpentine_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111090
+            },
+            "model": "equipment/weapon/staff/imperial_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111100
+            },
+            "model": "equipment/weapon/staff/moon_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111110
+            },
+            "model": "equipment/weapon/staff/maelstrom_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111120
+            },
+            "model": "equipment/weapon/staff/primordial_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111130
+            },
+            "model": "equipment/weapon/staff/judgement_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111140
+            },
+            "model": "equipment/weapon/staff/eclipse_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112000
+            },
+            "model": "equipment/weapon/bow/crude_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112010
+            },
+            "model": "equipment/weapon/bow/short_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112020
+            },
+            "model": "equipment/weapon/bow/long_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112030
+            },
+            "model": "equipment/weapon/bow/composite_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112040
+            },
+            "model": "equipment/weapon/bow/bone_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112050
+            },
+            "model": "equipment/weapon/bow/grove_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112060
+            },
+            "model": "equipment/weapon/bow/sniper_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112070
+            },
+            "model": "equipment/weapon/bow/royal_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112080
+            },
+            "model": "equipment/weapon/bow/ivory_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112090
+            },
+            "model": "equipment/weapon/bow/ender_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112100
+            },
+            "model": "equipment/weapon/bow/cupid_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112110
+            },
+            "model": "equipment/weapon/bow/death_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112120
+            },
+            "model": "equipment/weapon/bow/ranger_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112130
+            },
+            "model": "equipment/weapon/bow/assassin_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112140
+            },
+            "model": "equipment/weapon/bow/foreseeing_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200000
+            },
+            "model": "equipment/armor/helmet/str/iron_hat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200010
+            },
+            "model": "equipment/armor/helmet/str/cone_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200020
+            },
+            "model": "equipment/armor/helmet/str/barbute_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200030
+            },
+            "model": "equipment/armor/helmet/str/gladiator_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200040
+            },
+            "model": "equipment/armor/helmet/str/reaver_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200050
+            },
+            "model": "equipment/armor/helmet/str/siege_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200060
+            },
+            "model": "equipment/armor/helmet/str/samite_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200070
+            },
+            "model": "equipment/armor/helmet/str/royal_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201000
+            },
+            "model": "equipment/armor/helmet/dex/leather_cap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201010
+            },
+            "model": "equipment/armor/helmet/dex/tricorne"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201020
+            },
+            "model": "equipment/armor/helmet/dex/wolf_pelt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201030
+            },
+            "model": "equipment/armor/helmet/dex/hunter_hood"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201040
+            },
+            "model": "equipment/armor/helmet/dex/noble_tricorne"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201050
+            },
+            "model": "equipment/armor/helmet/dex/ursine_pelt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201060
+            },
+            "model": "equipment/armor/helmet/dex/silken_food"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201070
+            },
+            "model": "equipment/armor/helmet/dex/lion_pelt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202000
+            },
+            "model": "equipment/armor/helmet/int/vine_circlet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202010
+            },
+            "model": "equipment/armor/helmet/int/iron_circlet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202020
+            },
+            "model": "equipment/armor/helmet/int/tribal_circlet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202030
+            },
+            "model": "equipment/armor/helmet/int/bone_circlet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202040
+            },
+            "model": "equipment/armor/helmet/int/steel_circlet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202050
+            },
+            "model": "equipment/armor/helmet/int/necromancer_circlet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202060
+            },
+            "model": "equipment/armor/helmet/int/mind_cage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202070
+            },
+            "model": "equipment/armor/helmet/int/hubris_circlet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203000
+            },
+            "model": "equipment/armor/helmet/str_dex/battered_helm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203010
+            },
+            "model": "equipment/armor/helmet/str_dex/sallet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203020
+            },
+            "model": "equipment/armor/helmet/str_dex/visored_sallet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203030
+            },
+            "model": "equipment/armor/helmet/str_dex/secutor_helm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203040
+            },
+            "model": "equipment/armor/helmet/str_dex/fencer_helm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203050
+            },
+            "model": "equipment/armor/helmet/str_dex/normand_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203060
+            },
+            "model": "equipment/armor/helmet/str_dex/fluted_bascinet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203070
+            },
+            "model": "equipment/armor/helmet/str_dex/nightmare_bascinet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 204000
+            },
+            "model": "equipment/armor/helmet/str_int/rusted_coif"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 204010
+            },
+            "model": "equipment/armor/helmet/str_int/great_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 204020
+            },
+            "model": "equipment/armor/helmet/str_int/crudsader_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 204030
+            },
+            "model": "equipment/armor/helmet/str_int/aventail_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 204040
+            },
+            "model": "equipment/armor/helmet/str_int/zealot_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 204050
+            },
+            "model": "equipment/armor/helmet/str_int/prophet_crown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 204060
+            },
+            "model": "equipment/armor/helmet/str_int/praetor_crown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 204070
+            },
+            "model": "equipment/armor/helmet/str_int/bone_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 205000
+            },
+            "model": "equipment/armor/helmet/dex_int/scare_mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 205010
+            },
+            "model": "equipment/armor/helmet/dex_int/plague_mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 205020
+            },
+            "model": "equipment/armor/helmet/dex_int/iron_mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 205030
+            },
+            "model": "equipment/armor/helmet/dex_int/raven_mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 205040
+            },
+            "model": "equipment/armor/helmet/dex_int/regicide_mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 205050
+            },
+            "model": "equipment/armor/helmet/dex_int/harlequin_mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 205060
+            },
+            "model": "equipment/armor/helmet/dex_int/avarca__mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 205070
+            },
+            "model": "equipment/armor/helmet/dex_int/deicide_mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210000
+            },
+            "model": "equipment/armor/chestplate/str/oak_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210010
+            },
+            "model": "equipment/armor/chestplate/str/copper_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210020
+            },
+            "model": "equipment/armor/chestplate/str/iron_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210030
+            },
+            "model": "equipment/armor/chestplate/str/fluted_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210040
+            },
+            "model": "equipment/armor/chestplate/str/glorious_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210050
+            },
+            "model": "equipment/armor/chestplate/str/astral_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210060
+            },
+            "model": "equipment/armor/chestplate/str/titan_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210070
+            },
+            "model": "equipment/armor/chestplate/str/diamond_plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211000
+            },
+            "model": "equipment/armor/chestplate/dex/leather_jerkin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211010
+            },
+            "model": "equipment/armor/chestplate/dex/wild_leather"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211020
+            },
+            "model": "equipment/armor/chestplate/dex/thiefs_garb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211030
+            },
+            "model": "equipment/armor/chestplate/dex/boiled_leather"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211040
+            },
+            "model": "equipment/armor/chestplate/dex/ninja_garb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211050
+            },
+            "model": "equipment/armor/chestplate/dex/destiny_leather"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211060
+            },
+            "model": "equipment/armor/chestplate/dex/assassins_garb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211070
+            },
+            "model": "equipment/armor/chestplate/dex/zodiac_leather"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212000
+            },
+            "model": "equipment/armor/chestplate/int/simple_robe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212010
+            },
+            "model": "equipment/armor/chestplate/int/priests_alb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212020
+            },
+            "model": "equipment/armor/chestplate/int/wizards_robe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212030
+            },
+            "model": "equipment/armor/chestplate/int/dalmatica"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212040
+            },
+            "model": "equipment/armor/chestplate/int/destroyer_regalia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212050
+            },
+            "model": "equipment/armor/chestplate/int/liturgy_sticharion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212060
+            },
+            "model": "equipment/armor/chestplate/int/sages_robe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212070
+            },
+            "model": "equipment/armor/chestplate/int/avarca_regalia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213000
+            },
+            "model": "equipment/armor/chestplate/str_dex/scale_vest"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213010
+            },
+            "model": "equipment/armor/chestplate/str_dex/soldiers_brigandine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213020
+            },
+            "model": "equipment/armor/chestplate/str_dex/battle_lamellar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213030
+            },
+            "model": "equipment/armor/chestplate/str_dex/do-maru"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213040
+            },
+            "model": "equipment/armor/chestplate/str_dex/generals_brigandine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213050
+            },
+            "model": "equipment/armor/chestplate/str_dex/triumphant_lamellar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213060
+            },
+            "model": "equipment/armor/chestplate/str_dex/o-yoroi"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213070
+            },
+            "model": "equipment/armor/chestplate/str_dex/dragonscale_mail"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214000
+            },
+            "model": "equipment/armor/chestplate/str_int/chainmail_vest"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214010
+            },
+            "model": "equipment/armor/chestplate/str_int/ringmail_coat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214020
+            },
+            "model": "equipment/armor/chestplate/str_int/chain_hauberk"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214030
+            },
+            "model": "equipment/armor/chestplate/str_int/kusari_katabira"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214040
+            },
+            "model": "equipment/armor/chestplate/str_int/crusader_chainmail"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214050
+            },
+            "model": "equipment/armor/chestplate/str_int/holy_chainmail"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214060
+            },
+            "model": "equipment/armor/chestplate/str_int/elegant_ringmail"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214070
+            },
+            "model": "equipment/armor/chestplate/str_int/saints_hauberk"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215000
+            },
+            "model": "equipment/armor/chestplate/dex_int/padded_vest"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215010
+            },
+            "model": "equipment/armor/chestplate/dex_int/oiled_coat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215020
+            },
+            "model": "equipment/armor/chestplate/dex_int/quilted_jacket"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215030
+            },
+            "model": "equipment/armor/chestplate/dex_int/crimson_raiment"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215040
+            },
+            "model": "equipment/armor/chestplate/dex_int/bone_armor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215050
+            },
+            "model": "equipment/armor/chestplate/dex_int/sentinel_jacket"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215060
+            },
+            "model": "equipment/armor/chestplate/dex_int/blood_raiment"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215070
+            },
+            "model": "equipment/armor/chestplate/dex_int/carnal_armor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220000
+            },
+            "model": "equipment/armor/gloves/str/iron_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220010
+            },
+            "model": "equipment/armor/gloves/str/plated_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220020
+            },
+            "model": "equipment/armor/gloves/str/bronze_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220030
+            },
+            "model": "equipment/armor/gloves/str/steel_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220040
+            },
+            "model": "equipment/armor/gloves/str/goliath_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220050
+            },
+            "model": "equipment/armor/gloves/str/avarca_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220060
+            },
+            "model": "equipment/armor/gloves/str/titan_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220070
+            },
+            "model": "equipment/armor/gloves/str/spiked_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221000
+            },
+            "model": "equipment/armor/gloves/dex/rawhide_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221010
+            },
+            "model": "equipment/armor/gloves/dex/goathide_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221020
+            },
+            "model": "equipment/armor/gloves/dex/nubuck_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221030
+            },
+            "model": "equipment/armor/gloves/dex/eelskin_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221040
+            },
+            "model": "equipment/armor/gloves/dex/shagreen_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221050
+            },
+            "model": "equipment/armor/gloves/dex/stealth_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221060
+            },
+            "model": "equipment/armor/gloves/dex/slink_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221070
+            },
+            "model": "equipment/armor/gloves/dex/gripped_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222000
+            },
+            "model": "equipment/armor/gloves/int/wool_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222010
+            },
+            "model": "equipment/armor/gloves/int/velvet_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222020
+            },
+            "model": "equipment/armor/gloves/int/silk_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222030
+            },
+            "model": "equipment/armor/gloves/int/samite_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222040
+            },
+            "model": "equipment/armor/gloves/int/conjurer_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222050
+            },
+            "model": "equipment/armor/gloves/int/arcanist_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222060
+            },
+            "model": "equipment/armor/gloves/int/sorcerer_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222070
+            },
+            "model": "equipment/armor/gloves/int/fingerless_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223000
+            },
+            "model": "equipment/armor/gloves/str_dex/fishscale_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223010
+            },
+            "model": "equipment/armor/gloves/str_dex/ironscale_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223020
+            },
+            "model": "equipment/armor/gloves/str_dex/bronzescale_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223030
+            },
+            "model": "equipment/armor/gloves/str_dex/steelscale_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223040
+            },
+            "model": "equipment/armor/gloves/str_dex/serpentscale_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223050
+            },
+            "model": "equipment/armor/gloves/str_dex/wyrmscale_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223060
+            },
+            "model": "equipment/armor/gloves/str_dex/hydrascale_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223070
+            },
+            "model": "equipment/armor/gloves/str_dex/dragonscale_gauntlets"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224000
+            },
+            "model": "equipment/armor/gloves/str_int/chain_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224010
+            },
+            "model": "equipment/armor/gloves/str_int/ringmail_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224020
+            },
+            "model": "equipment/armor/gloves/str_int/mesh_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224030
+            },
+            "model": "equipment/armor/gloves/str_int/riveted_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224040
+            },
+            "model": "equipment/armor/gloves/str_int/zealot_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224050
+            },
+            "model": "equipment/armor/gloves/str_int/soldier_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224060
+            },
+            "model": "equipment/armor/gloves/str_int/legion_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224070
+            },
+            "model": "equipment/armor/gloves/str_int/crusader_gloves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225000
+            },
+            "model": "equipment/armor/gloves/dex_int/wrapped_mitts"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225010
+            },
+            "model": "equipment/armor/gloves/dex_int/strapped_mitts"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225020
+            },
+            "model": "equipment/armor/gloves/dex_int/clasped_mitts"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225030
+            },
+            "model": "equipment/armor/gloves/dex_int/trapper_mitts"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225040
+            },
+            "model": "equipment/armor/gloves/dex_int/ambush_mitts"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225050
+            },
+            "model": "equipment/armor/gloves/dex_int/carnal_mitts"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225060
+            },
+            "model": "equipment/armor/gloves/dex_int/assassins_mitts"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225070
+            },
+            "model": "equipment/armor/gloves/dex_int/murder_mitts"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230000
+            },
+            "model": "equipment/armor/boots/str/iron_greaves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230010
+            },
+            "model": "equipment/armor/boots/str/steel_greaves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230020
+            },
+            "model": "equipment/armor/boots/str/plated_greaves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230030
+            },
+            "model": "equipment/armor/boots/str/antique_greaves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230040
+            },
+            "model": "equipment/armor/boots/str/ancient_greaves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230050
+            },
+            "model": "equipment/armor/boots/str/goliath_greaves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230060
+            },
+            "model": "equipment/armor/boots/str/avarca_greaves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230070
+            },
+            "model": "equipment/armor/boots/str/titan_greaves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231000
+            },
+            "model": "equipment/armor/boots/dex/rawhide_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231010
+            },
+            "model": "equipment/armor/boots/dex/goathide_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231020
+            },
+            "model": "equipment/armor/boots/dex/deerskin_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231030
+            },
+            "model": "equipment/armor/boots/dex/nubuck_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231040
+            },
+            "model": "equipment/armor/boots/dex/eelskin_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231050
+            },
+            "model": "equipment/armor/boots/dex/shagreen_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231060
+            },
+            "model": "equipment/armor/boots/dex/stealth_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231070
+            },
+            "model": "equipment/armor/boots/dex/slink_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232000
+            },
+            "model": "equipment/armor/boots/int/wool_shoes"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232010
+            },
+            "model": "equipment/armor/boots/int/velvet_slippers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232020
+            },
+            "model": "equipment/armor/boots/int/silk_slippers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232030
+            },
+            "model": "equipment/armor/boots/int/scholar_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232040
+            },
+            "model": "equipment/armor/boots/int/samite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232050
+            },
+            "model": "equipment/armor/boots/int/conjurer_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232060
+            },
+            "model": "equipment/armor/boots/int/arcanist_slippers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232070
+            },
+            "model": "equipment/armor/boots/int/sorcerer_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233000
+            },
+            "model": "equipment/armor/boots/str_dex/leatherscale_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233010
+            },
+            "model": "equipment/armor/boots/str_dex/ironscale_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233020
+            },
+            "model": "equipment/armor/boots/str_dex/bronzescale_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233030
+            },
+            "model": "equipment/armor/boots/str_dex/steelscale_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233040
+            },
+            "model": "equipment/armor/boots/str_dex/serpentscale_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233050
+            },
+            "model": "equipment/armor/boots/str_dex/wyrmscale_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233060
+            },
+            "model": "equipment/armor/boots/str_dex/hydrascale_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233070
+            },
+            "model": "equipment/armor/boots/str_dex/dragonscale_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234000
+            },
+            "model": "equipment/armor/boots/str_int/chain_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234010
+            },
+            "model": "equipment/armor/boots/str_int/ringmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234020
+            },
+            "model": "equipment/armor/boots/str_int/mesh_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234030
+            },
+            "model": "equipment/armor/boots/str_int/riveted_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234040
+            },
+            "model": "equipment/armor/boots/str_int/zealot_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234050
+            },
+            "model": "equipment/armor/boots/str_int/soldier_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234060
+            },
+            "model": "equipment/armor/boots/str_int/legion_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234070
+            },
+            "model": "equipment/armor/boots/str_int/crusader_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235000
+            },
+            "model": "equipment/armor/boots/dex_int/wrapped_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235010
+            },
+            "model": "equipment/armor/boots/dex_int/strapped_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235020
+            },
+            "model": "equipment/armor/boots/dex_int/clasped_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235030
+            },
+            "model": "equipment/armor/boots/dex_int/trapper_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235040
+            },
+            "model": "equipment/armor/boots/dex_int/ambush_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235050
+            },
+            "model": "equipment/armor/boots/dex_int/carnal_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235060
+            },
+            "model": "equipment/armor/boots/dex_int/assassins_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235070
+            },
+            "model": "equipment/armor/boots/dex_int/muder_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240000
+            },
+            "model": "equipment/armor/shield/str/corroded_tower_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240010
+            },
+            "model": "equipment/armor/shield/str/rawhide_tower_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240020
+            },
+            "model": "equipment/armor/shield/str/copper_tower_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240030
+            },
+            "model": "equipment/armor/shield/str/painted_tower_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240040
+            },
+            "model": "equipment/armor/shield/str/shagreen_tower_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240050
+            },
+            "model": "equipment/armor/shield/str/ebony_tower_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240060
+            },
+            "model": "equipment/armor/shield/str/colossal_tower_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240070
+            },
+            "model": "equipment/armor/shield/str/pinnacle_tower_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241000
+            },
+            "model": "equipment/armor/shield/dex/goathide_buckler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241010
+            },
+            "model": "equipment/armor/shield/dex/pine_buckler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241020
+            },
+            "model": "equipment/armor/shield/dex/enameled_buckler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241030
+            },
+            "model": "equipment/armor/shield/dex/golden_buckler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241040
+            },
+            "model": "equipment/armor/shield/dex/ironwood_buckler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241050
+            },
+            "model": "equipment/armor/shield/dex/avarca_buckler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241060
+            },
+            "model": "equipment/armor/shield/dex/crusader_buckler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241070
+            },
+            "model": "equipment/armor/shield/dex/imperial_buckler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242000
+            },
+            "model": "equipment/armor/shield/int/twig_spirit_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242010
+            },
+            "model": "equipment/armor/shield/int/bone_spirit_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242020
+            },
+            "model": "equipment/armor/shield/int/jingling_spirit_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242030
+            },
+            "model": "equipment/armor/shield/int/lacewood_spirit_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242040
+            },
+            "model": "equipment/armor/shield/int/fossilised_spirit_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242050
+            },
+            "model": "equipment/armor/shield/int/avarca_spirit_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242060
+            },
+            "model": "equipment/armor/shield/int/harmonic_spirit_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242070
+            },
+            "model": "equipment/armor/shield/int/titanium_spirit_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 243000
+            },
+            "model": "equipment/armor/shield/str_dex/rotted_round_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 243010
+            },
+            "model": "equipment/armor/shield/str_dex/studded_round_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 243020
+            },
+            "model": "equipment/armor/shield/str_dex/maple_round_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 243030
+            },
+            "model": "equipment/armor/shield/str_dex/crimson_round_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 243040
+            },
+            "model": "equipment/armor/shield/str_dex/baroque_round_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 243050
+            },
+            "model": "equipment/armor/shield/str_dex/spiny_round_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 243060
+            },
+            "model": "equipment/armor/shield/str_dex/cardinal_round_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 243070
+            },
+            "model": "equipment/armor/shield/str_dex/elegant_round_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 244000
+            },
+            "model": "equipment/armor/shield/str_int/plank_kite_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 244010
+            },
+            "model": "equipment/armor/shield/str_int/layered_kite_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 244020
+            },
+            "model": "equipment/armor/shield/str_int/steel_kite_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 244030
+            },
+            "model": "equipment/armor/shield/str_int/angelic_kite_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 244040
+            },
+            "model": "equipment/armor/shield/str_int/branded_kite_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 244050
+            },
+            "model": "equipment/armor/shield/str_int/champion_kite_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 244060
+            },
+            "model": "equipment/armor/shield/str_int/mosaic_kite_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 244070
+            },
+            "model": "equipment/armor/shield/str_int/archon_kite_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 245000
+            },
+            "model": "equipment/armor/shield/dex_int/spiked_bundle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 245010
+            },
+            "model": "equipment/armor/shield/dex_int/driftwood_spiked_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 245020
+            },
+            "model": "equipment/armor/shield/dex_int/burnished_spiked_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 245030
+            },
+            "model": "equipment/armor/shield/dex_int/ornate_spiked_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 245040
+            },
+            "model": "equipment/armor/shield/dex_int/sovereign_spiked_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 245050
+            },
+            "model": "equipment/armor/shield/dex_int/alder_spiked_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 245060
+            },
+            "model": "equipment/armor/shield/dex_int/mirrored_spiked_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 245070
+            },
+            "model": "equipment/armor/shield/dex_int/supreme"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 250000
+            },
+            "model": "equipment/armor/quiver/two-point_arrow_quiver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 250010
+            },
+            "model": "equipment/armor/quiver/serrated_arrow_quiver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 250020
+            },
+            "model": "equipment/armor/quiver/sharktooth_arrow_quiver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 250030
+            },
+            "model": "equipment/armor/quiver/blunt_arrow_quiver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 250040
+            },
+            "model": "equipment/armor/quiver/fire_arrow_quiver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 250050
+            },
+            "model": "equipment/armor/quiver/broadhead_arrow_quiver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 250060
+            },
+            "model": "equipment/armor/quiver/penetrating_arrow_quiver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 250070
+            },
+            "model": "equipment/armor/quiver/spike-point_arrow_quiver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300000
+            },
+            "model": "equipment/accessory/amulet/coral_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300001
+            },
+            "model": "equipment/accessory/amulet/coral_amulet_"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300010
+            },
+            "model": "equipment/accessory/amulet/paua_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300020
+            },
+            "model": "equipment/accessory/amulet/amber_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300030
+            },
+            "model": "equipment/accessory/amulet/jade_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300040
+            },
+            "model": "equipment/accessory/amulet/lapis_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300050
+            },
+            "model": "equipment/accessory/amulet/gold_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300060
+            },
+            "model": "equipment/accessory/amulet/agate_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300070
+            },
+            "model": "equipment/accessory/amulet/citrine_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300080
+            },
+            "model": "equipment/accessory/amulet/turquoise_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300090
+            },
+            "model": "equipment/accessory/amulet/onyx_amulet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301000
+            },
+            "model": "equipment/accessory/ring/coral_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301010
+            },
+            "model": "equipment/accessory/ring/iron_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301011
+            },
+            "model": "equipment/accessory/ring/iron_ring_"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301020
+            },
+            "model": "equipment/accessory/ring/paua_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301021
+            },
+            "model": "equipment/accessory/ring/paua_ring_"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301030
+            },
+            "model": "equipment/accessory/ring/unset_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301040
+            },
+            "model": "equipment/accessory/ring/sapphire_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301050
+            },
+            "model": "equipment/accessory/ring/topaz_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301060
+            },
+            "model": "equipment/accessory/ring/ruby_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301070
+            },
+            "model": "equipment/accessory/ring/diamond_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301080
+            },
+            "model": "equipment/accessory/ring/gold_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301090
+            },
+            "model": "equipment/accessory/ring/moonstone_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301100
+            },
+            "model": "equipment/accessory/ring/two-stone_ring_fire-cold"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301110
+            },
+            "model": "equipment/accessory/ring/two-stone_ring_fire-lightning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301120
+            },
+            "model": "equipment/accessory/ring/two-stone_ring_cold-lightning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 301130
+            },
+            "model": "equipment/accessory/ring/amethyst_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 302000
+            },
+            "model": "equipment/accessory/belt/chain_belt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 302010
+            },
+            "model": "equipment/accessory/belt/rustic_belt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 302020
+            },
+            "model": "equipment/accessory/belt/heavy_belt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 302030
+            },
+            "model": "equipment/accessory/belt/leather_belt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 302040
+            },
+            "model": "equipment/accessory/belt/cloth_belt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 302050
+            },
+            "model": "equipment/accessory/belt/studded_belt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001000
+            },
+            "model": "gem/active/red/shield_charge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001001
+            },
+            "model": "gem/active/red/sweep"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002000
+            },
+            "model": "gem/active/green/ice_shot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002001
+            },
+            "model": "gem/active/green/rain_arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002002
+            },
+            "model": "gem/active/green/dash"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002003
+            },
+            "model": "gem/active/green/cyclone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003000
+            },
+            "model": "gem/active/blue/fireball"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003001
+            },
+            "model": "gem/active/blue/ice_spear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003002
+            },
+            "model": "gem/active/blue/arc"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003003
+            },
+            "model": "gem/active/blue/fire_nova"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003004
+            },
+            "model": "gem/active/blue/ice_nova"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003005
+            },
+            "model": "gem/active/blue/shock_nova"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003006
+            },
+            "model": "gem/active/blue/storm_call"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003007
+            },
+            "model": "gem/active/blue/spark_spider"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004000
+            },
+            "model": "gem/active/white/melee_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004001
+            },
+            "model": "gem/active/white/bow_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004002
+            },
+            "model": "gem/active/white/wand_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004003
+            },
+            "model": "gem/active/white/fist_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004004
+            },
+            "model": "gem/active/white/portal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004005
+            },
+            "model": "gem/active/white/item_catch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005000
+            },
+            "model": "gem/support/red/added_fire_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005001
+            },
+            "model": "gem/support/red/brutality"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005002
+            },
+            "model": "gem/support/red/burning_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005003
+            },
+            "model": "gem/support/red/elemental_damage_with_attacks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005004
+            },
+            "model": "gem/support/red/melee_physical_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005005
+            },
+            "model": "gem/support/red/fire_penetration"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006000
+            },
+            "model": "gem/support/green/added_cold_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006001
+            },
+            "model": "gem/support/green/faster_projectiles"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006002
+            },
+            "model": "gem/support/green/greater_multiple_projectiles"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006003
+            },
+            "model": "gem/support/green/deadly_ailments"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006004
+            },
+            "model": "gem/support/green/poison"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006005
+            },
+            "model": "gem/support/green/swift_affilicition"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006006
+            },
+            "model": "gem/support/green/vicious_projectiles"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006007
+            },
+            "model": "gem/support/green/void_manipulation"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006008
+            },
+            "model": "gem/support/green/lesser_poison"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006009
+            },
+            "model": "gem/support/green/lesser_multiple_projectiles"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006010
+            },
+            "model": "gem/support/green/pierce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006011
+            },
+            "model": "gem/support/green/chain"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006012
+            },
+            "model": "gem/support/green/fork"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006013
+            },
+            "model": "gem/support/green/cold_penetration"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006014
+            },
+            "model": "gem/support/green/faster_attacks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006015
+            },
+            "model": "gem/support/green/lesser_volley"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006016
+            },
+            "model": "gem/support/green/greater_volley"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007000
+            },
+            "model": "gem/support/blue/added_lightning_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007001
+            },
+            "model": "gem/support/blue/added_chaos_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007002
+            },
+            "model": "gem/support/blue/faster_casting"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007003
+            },
+            "model": "gem/support/blue/concentrated_effect"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007004
+            },
+            "model": "gem/support/blue/controlled_destruction"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007005
+            },
+            "model": "gem/support/blue/efficacy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007006
+            },
+            "model": "gem/support/blue/elemental_focus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007007
+            },
+            "model": "gem/support/blue/unbound_ailments"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007008
+            },
+            "model": "gem/support/blue/lightning_penetration"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2001000
+            },
+            "model": "skill/active/red/shield_charge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2001001
+            },
+            "model": "skill/active/red/sweep"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2002000
+            },
+            "model": "skill/active/green/ice_shot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2002001
+            },
+            "model": "skill/active/green/rain_arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2002002
+            },
+            "model": "skill/active/green/dash"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2002003
+            },
+            "model": "skill/active/green/cyclone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003000
+            },
+            "model": "skill/active/blue/fireball"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003001
+            },
+            "model": "skill/active/blue/ice_spear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003002
+            },
+            "model": "skill/active/blue/arc"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003003
+            },
+            "model": "skill/active/blue/fire_nova"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003004
+            },
+            "model": "skill/active/blue/ice_nova"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003005
+            },
+            "model": "skill/active/blue/shock_nova"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003006
+            },
+            "model": "skill/active/blue/storm_call"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003007
+            },
+            "model": "skill/active/blue/spark_spider"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2004000
+            },
+            "model": "skill/active/white/melee_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2004001
+            },
+            "model": "skill/active/white/bow_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2004002
+            },
+            "model": "skill/active/white/wand_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2004003
+            },
+            "model": "skill/active/white/fist_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2004004
+            },
+            "model": "skill/active/white/portal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2004005
+            },
+            "model": "skill/active/white/item_catch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2005000
+            },
+            "model": "skill/support/red/added_fire_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2005001
+            },
+            "model": "skill/support/red/brutality"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2005002
+            },
+            "model": "skill/support/red/burning_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2005003
+            },
+            "model": "skill/support/red/elemental_damage_with_attacks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2005004
+            },
+            "model": "skill/support/red/melee_physical_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2005005
+            },
+            "model": "skill/support/red/fire_penetration"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006000
+            },
+            "model": "skill/support/green/added_cold_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006001
+            },
+            "model": "skill/support/green/faster_projectiles"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006002
+            },
+            "model": "skill/support/green/greater_multiple_projectiles"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006003
+            },
+            "model": "skill/support/green/deadly_ailments"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006004
+            },
+            "model": "skill/support/green/poison"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006005
+            },
+            "model": "skill/support/green/swift_affilicition"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006006
+            },
+            "model": "skill/support/green/vicious_projectiles"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006007
+            },
+            "model": "skill/support/green/void_manipulation"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006008
+            },
+            "model": "skill/support/green/lesser_poison"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006009
+            },
+            "model": "skill/support/green/lesser_multiple_projectiles"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006010
+            },
+            "model": "skill/support/green/pierce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006011
+            },
+            "model": "skill/support/green/chain"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006012
+            },
+            "model": "skill/support/green/fork"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006013
+            },
+            "model": "skill/support/green/cold_penetration"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006014
+            },
+            "model": "skill/support/green/faster_attacks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006015
+            },
+            "model": "skill/support/green/lesser_volley"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006016
+            },
+            "model": "skill/support/green/greater_volley"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007000
+            },
+            "model": "skill/support/blue/added_lightning_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007001
+            },
+            "model": "skill/support/blue/added_chaos_damage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007002
+            },
+            "model": "skill/support/blue/faster_casting"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007003
+            },
+            "model": "skill/support/blue/concentrated_effect"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007004
+            },
+            "model": "skill/support/blue/controlled_destruction"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007005
+            },
+            "model": "skill/support/blue/efficacy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007006
+            },
+            "model": "skill/support/blue/elemental_focus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007007
+            },
+            "model": "skill/support/blue/unbound_ailments"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007008
+            },
+            "model": "skill/support/blue/lightning_penetration"
+        }
+    ]
+}

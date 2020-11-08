@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cod"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "empty_icon/empty_weapon"},
+		{ "predicate": {"custom_model_data": 2}, "model": "empty_icon/empty_shield"},
+		{ "predicate": {"custom_model_data": 3}, "model": "empty_icon/empty_helmet"},
+		{ "predicate": {"custom_model_data": 4}, "model": "empty_icon/empty_chestplate"},
+		{ "predicate": {"custom_model_data": 5}, "model": "empty_icon/empty_gloves"},
+		{ "predicate": {"custom_model_data": 6}, "model": "empty_icon/empty_boots"},
+		{ "predicate": {"custom_model_data": 7}, "model": "empty_icon/empty_amulet"},
+		{ "predicate": {"custom_model_data": 8}, "model": "empty_icon/empty_ring"},
+		{ "predicate": {"custom_model_data": 9}, "model": "empty_icon/empty_belt"},
+		{ "predicate": {"custom_model_data": 10}, "model": "empty_icon/empty_leggings"},
+		{ "predicate": {"custom_model_data": 11}, "model": "empty_icon/empty_frame"},
+		{ "predicate": {"custom_model_data": 12}, "model": "empty_icon/red_socket"},
+		{ "predicate": {"custom_model_data": 13}, "model": "empty_icon/green_socket"},
+		{ "predicate": {"custom_model_data": 14}, "model": "empty_icon/blue_socket"},
+		{ "predicate": {"custom_model_data": 15}, "model": "empty_icon/white_socket"},
+		{ "predicate": {"custom_model_data": 16}, "model": "empty_icon/empty_quiver"}
+	]
+}
