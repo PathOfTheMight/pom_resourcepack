@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "equipment/accessory/amulet/amber_amulet_heart_of_lantern"
-    }
-}
