@@ -236,7 +236,7 @@
             "predicate": {
                 "custom_model_data": 102070
             },
-            "model": "equipment/weapon/sword_1h/"
+            "model": "equipment/weapon/sword_1h/gladius"
         },
         {
             "predicate": {
@@ -2618,7 +2618,7 @@
             "predicate": {
                 "custom_model_data": 245070
             },
-            "model": "equipment/armor/shield/dex_int/supreme"
+            "model": "equipment/armor/shield/dex_int/supreme_spiked_shield"
         },
         {
             "predicate": {
