@@ -1,7 +1,7 @@
 {
     "textures": {
         "gem": "gem/green_support_gem",
-        "icon": "skill/support/green/swift_affilicition",
+        "icon": "skill/support/green/swift_afflicition",
         "particle": "gem/green_support_gem"
     },
     "elements": [
